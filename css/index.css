@@ -1,0 +1,39 @@
+.body {
+    background-color: rgb(191, 235, 247);
+    margin: 20px;
+    padding: 30px;
+  }
+.navbar {
+    background-color: rgb(104, 121, 216);
+    overflow: hidden;
+  }
+  .navbar a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+   #heading {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      color: blue;
+      padding-top: 30px;    
+  }
+  img {
+    float: left;
+    width: 1250px;
+    height: 600px;
+  }
+  .card{
+    padding: 10px 16px;
+    display: grid;
+    grid-auto-rows: auto;
+  }
+
+
